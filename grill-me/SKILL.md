@@ -8,4 +8,4 @@ Interview me relentlessly about every aspect of this plan until we reach a share
 Ask the questions one at a time.
 
 If a question can be answered by exploring the codebase, explore the codebase instead.
-As a last question ask the user if he wants to create a PRD
+After all your questions have been answered, confirm if a PRD should be created. 
