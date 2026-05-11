@@ -37,14 +37,19 @@ Before starting with the implementation confirm the following:
 - [ ] Confirm test priorities
 - [ ] List the behaviours to test
 - [ ] Get approval
+- [ ] Create a new branch for the task (see next step)
 
-### 2. Implement
+### 2. Branching
+
+Create a new branch for the task. Use a descriptive name that reflects the feature or bug being addressed. For example, if you're implementing a new login feature, you might name the branch `feature/123-login` or `bugfix/123-login-error`. This helps keep the codebase organized and makes it easier for others to understand the purpose of the branch at a glance.
+
+### 3. Implement
 
 Write one test to confirm one behavior perferably in a table driven style. 
 Create enough code to pass the current test. 
 
-### 3. Loop
-Repeat step two until the task is completed
+### 4. Loop
+Repeat step three until the task is completed
 
 Rules:
 
@@ -52,7 +57,7 @@ Rules:
 - do not anticipate future tests
 - keep tests focused
 
-### 4. Refactor
+### 5. Refactor
 
 After all tests pass, look for refactoring candidates
 

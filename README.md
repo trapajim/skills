@@ -9,4 +9,8 @@ source [mattpocock/skill](https://github.com/mattpocock/skills/tree/main)
 
 **to-issue** Create issues based on the prd source [mattpocock/skill](https://github.com/mattpocock/skills/tree/main)
 
+**to-task** Break down a given issue into small tasks
+
+**implement** implement a given issue 
+
 **discovery** Use this skill to discover a new code base or module in a code base to get hot path and core explanation 
