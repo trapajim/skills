@@ -8,3 +8,5 @@ source [mattpocock/skill](https://github.com/mattpocock/skills/tree/main)
 **prd** Create a prd based on the current conversation, best used after grill-me
 
 **to-issue** Create issues based on the prd source [mattpocock/skill](https://github.com/mattpocock/skills/tree/main)
+
+**discovery** Use this skill to discover a new code base or module in a code base to get hot path and core explanation 
